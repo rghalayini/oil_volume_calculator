@@ -1,2 +1,2 @@
 # oil_volume_calculator
-Probabilistic volumetric calculator for oil and gas resources during exploration
+Probabilistic volumetric calculator for oil and gas resources during exploration using the Monte Carlo simulation method
